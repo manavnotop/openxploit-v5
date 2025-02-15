@@ -2614,7 +2614,7 @@ snapshots:
 
   '@types/through@0.0.33':
     dependencies:
-      '@types/node': 22.13.0
+      '@types/node': 22.13.4
 
   '@types/tinycolor2@1.4.6': {}
 
